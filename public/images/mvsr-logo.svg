@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" fill="none">
+  <!-- MVSR Crest Badge -->
+  <g transform="translate(10, 10)">
+    <!-- Outer Shield / Circle -->
+    <circle cx="50" cy="50" r="48" fill="#FFFFFF" stroke="#002147" stroke-width="3.5"/>
+    <circle cx="50" cy="50" r="44" fill="none" stroke="#C59B27" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <circle cx="50" cy="50" r="38" fill="#002147"/>
+    
+    <!-- Inner Elements -->
+    <!-- Star / Gear Teeth behind -->
+    <path d="M50 16 L53 23 L60 20 L59 28 L67 28 L63 35 L70 38 L64 43 L69 49 L62 51 L65 58 L58 58 L58 65 L52 62 L48 68 L46 61 L39 64 L41 57 L34 56 L38 50 L31 46 L37 42 L33 35 L40 33 L39 25 L46 27 Z" fill="#C59B27" opacity="0.3"/>
+    
+    <!-- Central Shield -->
+    <path d="M35 30 H65 V55 C65 65 50 72 50 72 C50 72 35 65 35 55 Z" fill="#FFFFFF" stroke="#C59B27" stroke-width="1.5"/>
+    
+    <!-- Shield Partitions -->
+    <!-- Top Left: Lamp of Knowledge -->
+    <path d="M40 44 C42 44 44 42 44 38 C42 38 41 40 39 40 C38 40 37 42 40 44 Z" fill="#800020"/>
+    <circle cx="43" cy="36" r="1.5" fill="#C59B27"/>
+    
+    <!-- Top Right: Gear / Cog -->
+    <circle cx="58" cy="40" r="4" fill="none" stroke="#002147" stroke-width="1.5"/>
+    <circle cx="58" cy="40" r="1.5" fill="#002147"/>
+    
+    <!-- Bottom: Open Book / Science Motif -->
+    <path d="M42 56 C46 54 49 55 50 56 C51 55 54 54 58 56 V61 C54 59 51 60 50 61 C49 60 46 59 42 61 Z" fill="#002147"/>
+    
+    <!-- ESTD 1981 Ribbon -->
+    <rect x="26" y="78" width="48" height="13" rx="2" fill="#800020"/>
+    <text x="50" y="87" text-anchor="middle" fill="#FFFFFF" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="7.5" font-weight="700" letter-spacing="0.5">ESTD 1981</text>
+  </g>
+
+  <!-- Typography Block -->
+  <g transform="translate(125, 24)">
+    <text x="0" y="24" fill="#002147" font-family="'Plus Jakarta Sans', 'Segoe UI', system-ui, sans-serif" font-size="21" font-weight="800" letter-spacing="0.2">
+      MVSR ENGINEERING COLLEGE
+    </text>
+    <text x="0" y="44" fill="#4B5563" font-family="'Plus Jakarta Sans', 'Segoe UI', system-ui, sans-serif" font-size="11" font-weight="600" letter-spacing="0.4">
+      (Maturi Venkata Subba Rao Engineering College)
+    </text>
+    <text x="0" y="60" fill="#800020" font-family="'Plus Jakarta Sans', 'Segoe UI', system-ui, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.8">
+      AUTONOMOUS INSTITUTION &bull; AFFILIATED TO OSMANIA UNIVERSITY
+    </text>
+    <text x="0" y="76" fill="#1E3A8A" font-family="'Plus Jakarta Sans', 'Segoe UI', system-ui, sans-serif" font-size="10.5" font-weight="800" letter-spacing="1.2">
+      RESEARCH &amp; DEVELOPMENT AND CONSULTANCY CELL (M-MARTIC)
+    </text>
+  </g>
+</svg>
