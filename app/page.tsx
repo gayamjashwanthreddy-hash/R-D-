@@ -73,7 +73,7 @@ export default function HomePage() {
               </h1>
 
               <p className="text-base md:text-lg text-gray-700 leading-relaxed font-normal">
-                Maturi Venkata Subba Rao (MVSR) Engineering College has cultivated a distinguished research culture since its establishment in 1981. Centrally coordinated by the{' '}
+                MVSR Engineering College has cultivated a distinguished research culture since its establishment in 1981. Centrally coordinated by the{' '}
                 <strong className="text-institutional-navy">Research &amp; Development and Consultancy Cell</strong> and operating the multidisciplinary{' '}
                 <strong className="text-institutional-navy">M-MARTIC</strong> facility, the institution bridges rigorous academic inquiry with national strategic priorities.
               </p>

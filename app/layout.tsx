@@ -6,12 +6,11 @@ import InstitutionalFooter from '@/components/navigation/InstitutionalFooter';
 export const metadata: Metadata = {
   title: 'Research & Development Centre (M-MARTIC) | MVSR Engineering College',
   description:
-    'Official Research & Development and Consultancy Portal of Maturi Venkata Subba Rao (MVSR) Engineering College, Hyderabad. Autonomous institution affiliated with Osmania University, driving sponsored defense projects, intellectual property, and research excellence.',
+    'Official Research & Development and Consultancy Portal of MVSR Engineering College, Hyderabad. Autonomous institution affiliated with Osmania University, driving sponsored defense projects, intellectual property, and research excellence.',
   keywords: [
     'MVSR Engineering College',
     'MVSR R&D',
     'M-MARTIC',
-    'Maturi Venkata Subba Rao',
     'Osmania University Ph.D. Research Centre',
     'DRDO Sponsored Projects',
     'GHMC Quality Control Agency',

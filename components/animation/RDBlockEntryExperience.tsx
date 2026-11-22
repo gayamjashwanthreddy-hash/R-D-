@@ -191,7 +191,7 @@ export default function RDBlockEntryExperience({ onComplete }: RDBlockEntryProps
         <div className="relative w-full h-full">
           <Image
             src="/images/rd-block.jpg"
-            alt="Maturi Venkata Subba Rao Engineering College Institutional Research & Development Block"
+            alt="MVSR Engineering College Institutional Research & Development Block"
             fill
             priority
             quality={95}
@@ -217,11 +217,11 @@ export default function RDBlockEntryExperience({ onComplete }: RDBlockEntryProps
           </div>
 
           <div className="text-left space-y-0.5">
-            <p className="text-sm sm:text-base md:text-lg font-bold tracking-wider uppercase text-white drop-shadow-md">
-              MATURI VENKATA SUBBA RAO ENGINEERING COLLEGE
-            </p>
+            <h2 className="text-base sm:text-lg md:text-xl font-extrabold tracking-wide uppercase text-white drop-shadow-md">
+              MVSR ENGINEERING COLLEGE
+            </h2>
             <p className="text-[11px] sm:text-xs md:text-sm text-gray-200 font-medium tracking-wide drop-shadow">
-              Autonomous Institution &bull; Affiliated to Osmania University &bull; Established 1981
+              Autonomous Institution | Affiliated to Osmania University | Established 1981
             </p>
           </div>
         </div>

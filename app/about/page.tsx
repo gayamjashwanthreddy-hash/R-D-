@@ -71,7 +71,7 @@ export default function AboutPage() {
               Institutional Framework &amp; Mandate
             </h2>
             <p className="text-sm text-gray-700 leading-relaxed">
-              Maturi Venkata Subba Rao (MVSR) Engineering College was established in 1981 by the Matrusri Education Society and has stood as a pioneer in quality technical education in Telangana. As an autonomous institution permanently affiliated with Osmania University, research and development is foundational to our mission.
+              MVSR Engineering College was established in 1981 by the Matrusri Education Society and has stood as a pioneer in quality technical education in Telangana. As an autonomous institution permanently affiliated with Osmania University, research and development is foundational to our mission.
             </p>
             <p className="text-sm text-gray-700 leading-relaxed">
               The institutional R&amp;D framework is anchored by the central <strong>Research &amp; Development and Consultancy Cell</strong> and housed within the dedicated <strong>4,000+ sq. ft. M-MARTIC facility</strong>. It guides researchers across funding acquisition from national agencies (DRDO, DST, AICTE, ISRO), doctoral supervision under Osmania University, patent preparation, and certified consultancy services.

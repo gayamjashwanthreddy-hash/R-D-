@@ -199,7 +199,7 @@ export default function InstitutionalFooter() {
       <div className="bg-institutional-navy-dark border-t border-white/10 py-4 px-4 text-center text-xs text-gray-400">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
           <p>
-            &copy; {new Date().getFullYear()} Maturi Venkata Subba Rao (MVSR) Engineering College. All rights reserved.
+            &copy; {new Date().getFullYear()} MVSR Engineering College. All rights reserved.
           </p>
           <div className="flex items-center gap-4 text-[11px]">
             <Link href="/policies#ethics" className="hover:text-white transition-colors">

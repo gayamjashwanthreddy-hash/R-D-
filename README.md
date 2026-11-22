@@ -1,6 +1,6 @@
 # MVSR Engineering College — Institutional Research & Development Web Portal
 
-Official institutional Research & Development and Consultancy web portal for **Maturi Venkata Subba Rao (MVSR) Engineering College**, Hyderabad (Autonomous Institution, Affiliated to Osmania University, Approved by AICTE, Estd. 1981).
+Official institutional Research & Development and Consultancy web portal for **MVSR Engineering College**, Hyderabad (Autonomous Institution, Affiliated to Osmania University, Approved by AICTE, Estd. 1981).
 
 ---
 
@@ -96,4 +96,4 @@ npm start
 
 ## License
 
-Institutional Property of Maturi Venkata Subba Rao (MVSR) Engineering College.
+Institutional Property of MVSR Engineering College.
